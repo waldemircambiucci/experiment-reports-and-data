@@ -7,7 +7,7 @@
 Author: Waldemir Cambiucci
 Update: March 2024
 
-# Experiment 1 - Calculare classical dimensions for benchmark circuits. 
+# Experiment 1 - Calculate classical dimensions for benchmark circuits. 
 A collection of data created by experiments during this research.
 
 In the context of quantum circuits, classical dimensions refer to certain characteristics that describe the structure and complexity of the circuit. These dimensions include depth, size, and width:

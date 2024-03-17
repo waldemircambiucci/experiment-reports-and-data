@@ -1,0 +1,9 @@
+Circuit	depth	size	width	central gate-cut central	count_ops
+qft_nativegates_ibm_qiskit_opt0_30.qasm	239	2340	30	61	OrderedDict([('rz', 1365), ('cx', 915), ('sx', 30), ('measure', 30), ('barrier', 1)])	
+qft_nativegates_ibm_qiskit_opt0_50.qasm	399	6400	50	101	OrderedDict([('rz', 3775), ('cx', 2525), ('sx', 50), ('measure', 50), ('barrier', 1)])	
+qft_nativegates_ibm_qiskit_opt0_100.qasm	799	25300	100	201	OrderedDict([('rz', 15050), ('cx', 10050), ('sx', 100), ('measure', 100), ('barrier', 1)])	
+qft_nativegates_ibm_qiskit_opt0_120.qasm	959	36360	120	241	OrderedDict([('rz', 21660), ('cx', 14460), ('sx', 120), ('measure', 120), ('barrier', 1)])	
+qpeexact_nativegates_ibm_qiskit_opt0_30.qasm	342	2416	30	61	OrderedDict([('rz', 1418), ('cx', 910), ('sx', 58), ('measure', 29), ('x', 1), ('barrier', 1)])	
+qpeexact_nativegates_ibm_qiskit_opt0_50.qasm	588	6541	50	101	OrderedDict([('rz', 3871), ('cx', 2522), ('sx', 98), ('measure', 49), ('x', 1), ('barrier', 1)])	
+qpeexact_nativegates_ibm_qiskit_opt0_100.qasm	1188	25591	100	201	OrderedDict([('rz', 15246), ('cx', 10047), ('sx', 198), ('measure', 99), ('x', 1), ('barrier', 1)])	
+qpeexact_nativegates_ibm_qiskit_opt0_120.qasm	1428	36711	120	241	OrderedDict([('rz', 21896), ('cx', 14457), ('sx', 238), ('measure', 119), ('x', 1), ('barrier', 1)])	
